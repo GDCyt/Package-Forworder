@@ -1,0 +1,68 @@
+{
+  "apkFileName": "package-forworder-1.0_mod_src.apk",
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "classes.dex",
+    "png",
+    "ogg"
+  ],
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-240801",
+  "sharedLibrary": false,
+  "VersionInfo": {
+    "versionName": "13",
+    "versionCode": "33"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "META-INF/androidx.vectordrawable_vectordrawable.version": "0",
+    "META-INF/androidx.loader_loader.version": "0",
+    "META-INF/lifecycle-viewmodel_release.kotlin_module": "8",
+    "META-INF/androidx.lifecycle_lifecycle-runtime.version": "0",
+    "META-INF/androidx.leanback_leanback.version": "0",
+    "META-INF/androidx.appcompat_appcompat-resources.version": "0",
+    "META-INF/androidx.lifecycle_lifecycle-livedata-core.version": "0",
+    "META-INF/annotation-experimental_release.kotlin_module": "8",
+    "META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version": "0",
+    "META-INF/androidx.appcompat_appcompat.version": "0",
+    "META-INF/androidx.viewpager_viewpager.version": "0",
+    "META-INF/androidx.cursoradapter_cursoradapter.version": "0",
+    "META-INF/androidx.lifecycle_lifecycle-viewmodel.version": "0",
+    "META-INF/androidx.emoji2_emoji2-views-helper.version": "0",
+    "META-INF/androidx.media_media.version": "0",
+    "META-INF/androidx.recyclerview_recyclerview.version": "0",
+    "META-INF/androidx.annotation_annotation-experimental.version": "0",
+    "META-INF/androidx.drawerlayout_drawerlayout.version": "0",
+    "META-INF/androidx.core_core.version": "0",
+    "META-INF/proguard/androidx-annotations.pro": "8",
+    "META-INF/androidx.arch.core_core-runtime.version": "0",
+    "META-INF/androidx.tracing_tracing.version": "0",
+    "META-INF/androidx.emoji2_emoji2.version": "0",
+    "META-INF/androidx.versionedparcelable_versionedparcelable.version": "0",
+    "META-INF/androidx.vectordrawable_vectordrawable-animated.version": "0",
+    "META-INF/androidx.savedstate_savedstate.version": "0",
+    "META-INF/androidx.interpolator_interpolator.version": "0",
+    "META-INF/maven/com.google.guava/listenablefuture/pom.xml": "8",
+    "META-INF/kotlin-stdlib.kotlin_module": "8",
+    "META-INF/androidx.fragment_fragment.version": "0",
+    "META-INF/androidx.lifecycle_lifecycle-process.version": "0",
+    "META-INF/maven/com.google.guava/listenablefuture/pom.properties": "8",
+    "META-INF/androidx.startup_startup-runtime.version": "0",
+    "META-INF/androidx.activity_activity.version": "0",
+    "META-INF/androidx.customview_customview.version": "0"
+  },
+  "apkFilePath": "/storage/emulated/0/Apktool_M/package-forworder-1.0_mod.apk",
+  "isFrameworkApk": false,
+  "sdkInfo": {
+    "minSdkVersion": "33",
+    "targetSdkVersion": "33"
+  }
+}
